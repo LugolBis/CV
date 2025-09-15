@@ -7,7 +7,7 @@ This project is a CV in HTML/CSS.
 
 ### Usage :
 ```bash
-git clone https://github.com/LugolBis/CV.git && cd CV && python3 src/main.py
+git clone https://github.com/LugolBis/CV.git && cd CV && python3 src/main.py -i
 ```
 
 #### Print with browser :

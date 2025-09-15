@@ -258,6 +258,29 @@ p
     margin-top: 5px;
 }
 
+.prompt_injection
+{
+    color: transparent;
+    font-size: 1px;
+    line-height: 0;
+    opacity: 0;
+    
+    height: 0;
+    width: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+    overflow: hidden;
+    
+    position: absolute;
+    display: inline;
+    
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
 li::marker
 {
   color: #003147;
